@@ -1,6 +1,8 @@
 
 # README
 
+![Origin Schema](image.png)
+
 ## Overview
 This Jupyter Notebook is designed to process and analyze game and payment transaction data. It includes various functions to convert data types, adjust timestamps, and perform currency conversions. The notebook also generates detailed metrics and profiles for players based on their transaction history.
 
